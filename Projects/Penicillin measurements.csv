@@ -1,0 +1,53 @@
+Medium,E. coli (measured in dm),S. epi (measured in dm)
+Ampicillin,15,34
+Ampicillin,19,35
+Penicillin,11,33
+Penicillin,13,35
+Penicillin,12,33
+Penicillin,12,34
+Penicillin,12,33
+Penicillin,9,31
+Penicillin,13,33
+Water,0,0
+Water,0,0
+Water,15,0
+Water,12,0
+Water,8,30
+Water,0,35
+Water,0,
+ER (green) 5ppm,12,20
+ER (green) 5ppm,12,24
+ER (green) 5ppm,8,21
+ER (green) 5ppm,0,9
+ER (green) 5ppm,0,24
+ER (yellow) 10 ppm,0,16
+ER (yellow) 10 ppm,8,10
+ER (yellow) 10 ppm,0,20
+ER (yellow) 10 ppm,0,11
+ER (yellow) 10 ppm,11,12
+AG (light blue) 5 ppm,0,13
+AG (light blue) 5 ppm,0,26
+AG (light blue) 5 ppm,0,26
+AG (light blue) 5 ppm,0,30
+AG (light blue) 5 ppm,0,31
+AG (purple) 10 ppm,0,22
+AG (purple) 10 ppm,0,0
+AG (purple) 10 ppm,0,35
+AG (purple) 10 ppm,0,27
+AG (purple) 10 ppm,0,
+JH (red) 5 ppm,16,55
+JH (red) 5 ppm,28,55
+JH (red) 5 ppm,26,52
+JH (red) 5 ppm,25,40
+JH (red) 5 ppm,25,54
+JH (red) 5 ppm,18,56
+JH (red) 5 ppm,21,49
+JH (red) 5 ppm,15,
+JH (orange) 10 ppm,18,48
+JH (orange) 10 ppm,20,49
+JH (orange) 10 ppm,30,52
+JH (orange) 10 ppm,27,47
+JH (orange) 10 ppm,20,45
+JH (orange) 10 ppm,15,45
+JH (orange) 10 ppm,20,31
+JH (orange) 10 ppm,18,35
