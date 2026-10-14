@@ -1,0 +1,51 @@
+City/Community,Market Tier,Starbucks Tall Latte Index (USD),Imported Beer Price (USD)
+"New York (Manhattan), NY",High Urban,5.16,9.08
+"Los Angeles, CA",High Urban,5.02,9.1
+"San Francisco, CA",High Urban,5.18,9.19
+"San Jose, CA",High Urban,5.05,9.05
+"Boston, MA",High Urban,5.02,8.97
+"Washington, DC",High Urban,4.92,8.74
+"Seattle, WA",High Urban,4.95,8.75
+"Chicago, IL",High Urban,5.03,8.98
+"Miami, FL",High Urban,4.86,8.72
+"Honolulu, HI",High Urban,4.93,8.54
+"San Diego, CA",Mid-High Urban,4.85,8.68
+"Denver, CO",Mid-High Urban,4.79,8.63
+"Austin, TX",Mid-High Urban,4.59,8.55
+"Atlanta, GA",Mid-High Urban,4.66,8.06
+"Philadelphia, PA",Mid-High Urban,4.64,7.77
+"Portland, OR",Mid-High Urban,4.66,8.21
+"Minneapolis, MN",Mid-High Urban,4.74,7.97
+"Charlotte, NC",Mid-High Urban,4.61,8.08
+"Nashville, TN",Mid-High Urban,4.65,7.99
+"Phoenix, AZ",Mid-High Urban,4.48,7.9
+"Dallas, TX",Mid Urban,4.67,8.27
+"Houston, TX",Mid Urban,4.48,7.81
+"Las Vegas, NV",Mid Urban,4.5,7.62
+"Orlando, FL",Mid Urban,4.44,7.63
+"Salt Lake City, UT",Mid Urban,4.44,7.61
+"Columbus, OH",Mid Urban,4.34,7.61
+"Indianapolis, IN",Mid Urban,4.32,7.34
+"Kansas City, MO",Mid Urban,4.4,7.65
+"Raleigh, NC",Mid Urban,4.48,7.44
+"Tampa, FL",Mid Urban,4.34,7.38
+"St. Louis, MO",Mid-Low Urban,4.12,7.29
+"Baltimore, MD",Mid-Low Urban,4.4,7.91
+"Cincinnati, OH",Mid-Low Urban,4.24,7.3
+"Pittsburgh, PA",Mid-Low Urban,4.17,6.89
+"Sacramento, CA",Mid-Low Urban,4.34,7.36
+"San Antonio, TX",Mid-Low Urban,4.17,6.8
+"Milwaukee, WI",Mid-Low Urban,4.28,6.85
+"Cleveland, OH",Mid-Low Urban,4.06,7.06
+"Jacksonville, FL",Mid-Low Urban,3.94,6.67
+"Oklahoma City, OK",Mid-Low Urban,4.09,6.81
+"Louisville, KY",Low-Mid / Rural Edge,3.96,6.9
+"Memphis, TN",Low-Mid / Rural Edge,3.94,6.84
+"Richmond, VA",Low-Mid / Rural Edge,3.91,6.91
+"Birmingham, AL",Low-Mid / Rural Edge,3.88,6.55
+"Tulsa, OK",Low-Mid / Rural Edge,3.92,6.21
+"Buffalo, NY",Low-Mid / Rural Edge,3.89,6.62
+"El Paso, TX",Low-Mid / Rural Edge,3.73,6.43
+"Omaha, NE",Low-Mid / Rural Edge,3.94,6.65
+"Knoxville, TN",Low-Mid / Rural Edge,3.75,6.19
+"Boise, ID",Low-Mid / Rural Edge,3.74,6.12
